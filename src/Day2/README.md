@@ -8,6 +8,4 @@ A simple console-based Java application to simulate basic banking operations lik
 - Deposit and withdraw money.
 - View account balance and account details.
 
-### 📁 Location
-`src/Day2/BankingSystem.java`
 
