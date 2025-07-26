@@ -1,18 +1,13 @@
-## ✅ Day 2: Student Record System
+## ✅ Day 2: Banking System
 
 ### 🔹 Description
-A Java-based console application that allows users to manage student records, including adding, displaying, and removing student data.
+A simple console-based Java application to simulate basic banking operations like deposit, withdrawal, and account balance checking.
 
 ### 🛠️ Features
-- Add new student details (Name, Roll Number, Marks).
-- Display all stored student records.
-- Remove a student record using Roll Number.
-- Data stored in memory using ArrayList.
+- Create a bank account.
+- Deposit and withdraw money.
+- View account balance and account details.
 
-### 📦 Technologies Used
-- Java
-- OOP (Object-Oriented Programming)
-- Collections (ArrayList)
-- Scanner for input
+### 📁 Location
+`src/Day2/BankingSystem.java`
 
-### 📥 Sample Input
