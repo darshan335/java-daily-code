@@ -31,7 +31,7 @@ class BankAccount {
         System.out.println("Current balance: ₹" + balance);
     }
 }
-public class Day03_BankingSystem {
+public class Day02_BankingSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter account holder name: ");
