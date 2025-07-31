@@ -13,6 +13,7 @@ public class musicplayer {
 
             Clip clip = AudioSystem.getClip();
             clip.open(audiostream);
+            clip.start();
 
 
             System.out.println("Loading file...");
@@ -26,6 +27,9 @@ public class musicplayer {
             System.out.println("Unsupported Audio File");
         } catch (IOException e) {
             System.out.println("I/O Error");
+        }
+        finally {
+            System.out.println("Done");
         }
     }
 }
